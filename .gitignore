@@ -220,3 +220,6 @@ __marimo__/
 # Dataset
 train-00000-of-00002.parquet
 train-00001-of-00002.parquet
+
+# Model snapshots
+*.pt
